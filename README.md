@@ -13,9 +13,4 @@ This is Md Shefat Hasnain,
  
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/67694473?v=4" height="100" weight="200" /></a>
  
-
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/67694473?v=4" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/67694473?v=4" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/67694473?v=4" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/67694473?v=4" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/67694473?v=4" height="100" /></a>
+ 
