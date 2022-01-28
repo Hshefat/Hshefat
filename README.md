@@ -1,9 +1,6 @@
 ### Hi there 👋
-
-<!--
-**Hshefat/Hshefat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+This is Md Shefat Hasnain,
+ 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/67694473?v=4" height="100" /></a>
