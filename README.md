@@ -13,7 +13,7 @@ This is Md Shefat Hasnain,
 - ⚡ Fun fact: ...
  
  <!--- just --->
- <a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.cognizantsoftvision.com/wp-content/uploads/2018/03/06023352/ASP.NET-Core.png" height="100" weight="200" /></a>
+
  <!--- <a href="URL_REDIRECT" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/67694473?v=4" height="100" weight="200" /></a>
  just --->
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://icon-library.com/images/android-icon-vector/android-icon-vector-6.jpg" height="100" weight="200" /></a>
