@@ -13,9 +13,6 @@ This is Md Shefat Hasnain,
 - ⚡ Fun fact: ...
  
  <!--- just --->
-
- <!--- <a href="URL_REDIRECT" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/67694473?v=4" height="100" weight="200" /></a>
- just --->
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://icon-library.com/images/android-icon-vector/android-icon-vector-6.jpg" height="100" weight="200" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" height="100" weight="200" /></a>
 
